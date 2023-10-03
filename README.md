@@ -51,7 +51,7 @@ _Touch: five-point capactive touch_
 After the programming of Step1 is completed, open the config.txt file of TF card root directory and add the following code at the end of the file, save and eject Micro SD Card safely:
 
 ```
-~~max_usb_current=1~~ Эту строку я не использую
+~max_usb_current=1~ Эту строку я не использую
 
 hdmi_force_hotplug=1
 config_hdmi_boost=7
