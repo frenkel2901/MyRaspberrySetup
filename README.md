@@ -18,11 +18,8 @@ _Карту памяти нужно брать Class 10_
 ☐ - display 
 🍓 - малина
 
-☐ 
-  USB C     | mini HDMI
-   /  \     |    |
-USB-A USB-A | HDMI + Adapter micro HDMI
-🍓 
+☐  USB C ---< USB A + USB A  🍓 
+☐  miniHDMI --- HDMI + Adapter micro HDMI  🍓 
 
 【Product Descriotion】
 - 7 inch standard display, 1024 × 600 Hardware resolution, Up to 1920x1080 Software configuration resolution.
